@@ -1,0 +1,1 @@
+# OpenCV_video_effect_generator
